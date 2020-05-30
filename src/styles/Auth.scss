@@ -1,0 +1,52 @@
+.Login{
+    height: 100vh;
+    background: rgba($color: #ffffff, $alpha: 0.3);
+}
+
+.card {
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 8%;
+   min-width: 450px;
+   width: 25%;
+   border-width: 1px;
+   border-color:none;
+   background: rgba($color: #ffffff, $alpha: 1.0);
+   
+}
+ .card-header{
+   background-color: #3AAFA9 !important;
+ }
+
+.form-group{
+   text-align: left;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.btn{
+   margin-bottom: 40px;
+   margin-top: 20px;
+   margin-right: 10px;
+   min-width: 100px;
+}
+.header{
+   //background-color: black;
+   color: white;
+   margin-bottom: 20px;
+}
+.field{
+   margin-top: 20px;
+}
+.cardup {
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 8%;
+   min-width: 450px;
+   width: 25%;
+   border-width: 1px;
+   border-color:none;
+   
+}
+.cardDiv{
+   margin-top: 10px;
+}

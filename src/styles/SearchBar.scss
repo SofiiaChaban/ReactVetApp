@@ -1,0 +1,14 @@
+.SearchBar {
+    width: 30%;
+    display: flex;
+    margin-left: 15%;
+    margin-top: 15%;
+    z-index: 1;
+    position: absolute;
+
+    .searchButton{
+        background-color: #3AAFA9;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+}
