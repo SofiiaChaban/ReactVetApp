@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "connected-react-router": "^6.8.0",
     "history": "^4.10.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "r": "0.0.5",
     "rambda": "^5.4.1",
     "ramda": "^0.27.0",
@@ -17,7 +17,7 @@
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-select": "^3.1.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
